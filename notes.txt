@@ -1,0 +1,1 @@
+run ngh --dir dist/ngExperiments to publish into git pages
