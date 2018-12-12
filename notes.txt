@@ -1,1 +1,3 @@
+ng build --prod --base-href https://anilkumar-padigela.github.io/ngExperiments
+
 run ngh --dir dist/ngExperiments to publish into git pages
